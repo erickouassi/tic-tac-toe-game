@@ -9,3 +9,7 @@ Replace the Square class with this function
 4/5/2019
 
 Declaring a Winner
+
+4/6/2019
+
+Storing a history of moves
